@@ -52,7 +52,7 @@ It sends `leftMouseUp`, not a full click. The goal is to end a stuck drag withou
 
 ## Notes
 
-- Known working on macOS Tahoe 26.4.1., 26.5.
+- Known working on macOS Tahoe 26.4.1., 26.5.2
 - Apple Silicon only for now.
 - Not notarized.
 - Uses private macOS APIs, so macOS updates can break it.
